@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "documentation": "This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\n",
+  "notes": "",
+  "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "massdrop/alt",
   "keymap": "norune",
   "layout": "LAYOUT_65_ansi_blocker",
@@ -20,7 +21,7 @@
       "KC_MINS",
       "KC_EQL",
       "KC_BSLS",
-      "KC_DEL",
+      "KC_GRV",
       "KC_TAB",
       "KC_Q",
       "KC_W",
@@ -75,7 +76,7 @@
       "KC_RGHT"
     ],
     [
-      "KC_GRV",
+      "KC_TRNS",
       "KC_F1",
       "KC_F2",
       "KC_F3",
@@ -131,6 +132,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
+      "KC_MSTP",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -138,10 +140,9 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS"
+      "KC_MPRV",
+      "KC_MPLY",
+      "KC_MNXT"
     ],
     [
       "QK_BOOT",
@@ -173,7 +174,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "BL_TOGG",
+      "RGB_TOG",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -187,7 +188,7 @@
       "KC_P6",
       "KC_TRNS",
       "KC_TRNS",
-      "NK_TOGG",
+      "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -200,7 +201,7 @@
       "KC_P3",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_MSTP",
+      "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -208,11 +209,10 @@
       "KC_TRNS",
       "KC_P0",
       "KC_PDOT",
-      "KC_MRWD",
-      "KC_MPLY",
-      "KC_MFFD"
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
     ]
   ],
-  "author": "",
-  "notes": ""
+  "author": ""
 }
