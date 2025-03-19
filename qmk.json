@@ -3,7 +3,7 @@
     "build_targets": [
         ["boardsource/lulu/rp2040", "norune"],
         ["boardsource/lulu/rp2040", "default"],
-        ["massdrop/alt", "norune"],
-        ["massdrop/alt", "default"]
+        ["drop/alt", "norune"],
+        ["drop/alt", "default"]
     ]
 }
