@@ -64,7 +64,7 @@
       "TT(1)",
       "TT(2)",
       "KC_RALT",
-      "MO(3)"
+      "TT(3)"
     ],
     [
       "KC_GRV",
@@ -187,11 +187,6 @@
       "KC_PDOT"
     ],
     [
-      "QK_BOOT",
-      "KC_F21",
-      "KC_F22",
-      "KC_F23",
-      "KC_F24",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -225,6 +220,9 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
+      "KC_UP",
+      "KC_ENT",
+      "KC_ESC",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -235,6 +233,9 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
+      "KC_LEFT",
+      "KC_DOWN",
+      "KC_RGHT",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -242,8 +243,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_SPC",
       "KC_TRNS"
     ]
   ],
