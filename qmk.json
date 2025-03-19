@@ -2,8 +2,6 @@
     "userspace_version": "1.0",
     "build_targets": [
         ["boardsource/lulu/rp2040", "norune"],
-        ["boardsource/lulu/rp2040", "default"],
-        ["drop/alt", "norune"],
-        ["drop/alt", "default"]
+        ["boardsource/lulu/rp2040", "default"]
     ]
 }
